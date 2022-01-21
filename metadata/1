@@ -1,7 +1,7 @@
 {
     "name": "Samurai",
     "description": "Samurai-NFT #1",
-    "image": "https://raw.githubusercontent.com/MrHonekawa/sNFT/metadata/1.png",
+    "image": "https://raw.githubusercontent.com/MrHonekawa/sNFT/main/metadata/1.png",
     "attributes": [
         {
             "trait_type": "background",
