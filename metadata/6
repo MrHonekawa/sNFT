@@ -1,0 +1,23 @@
+{
+    "name": "Samurai",
+    "description": "Samurai-NFT #6",
+    "image": "https://raw.githubusercontent.com/MrHonekawa/sNFT/main/metadata/6.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "scenery"
+        },
+        {
+            "trait_type": "hair",
+            "value": "black hair"
+        },
+        {
+           "trait_type": "eyes",
+           "value": "pink eyes"
+        },
+        {
+           "trait_type": "specialty",
+           "value": "experinced samurai-women"
+        }
+    ]
+}
