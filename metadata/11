@@ -1,0 +1,27 @@
+{
+    "name": "Samurai",
+    "description": "Samurai-NFT #11",
+    "image": "https://raw.githubusercontent.com/MrHonekawa/sNFT/main/metadata/11.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "sea"
+        },
+        {
+            "trait_type": "hair",
+            "value": "dark-blue hair"
+        },
+        {
+           "trait_type": "eyes",
+           "value": "red eyes"
+        },
+        {
+           "trait_type": "specialty",
+           "value": "experienced samurai"
+        },
+        {
+           "trait_type": "time taken",
+           "value": "6 hours"
+        }
+    ]
+}
